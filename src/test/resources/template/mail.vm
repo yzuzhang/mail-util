@@ -1,0 +1,10 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+hello ${user}:
+<h2>这里是velocity模版邮件,恭喜你 ! ${text}.</h2>
+
+</body>
+</html>
